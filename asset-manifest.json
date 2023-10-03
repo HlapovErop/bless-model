@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bless-model/static/css/main.e9e784c6.css",
+    "main.js": "/bless-model/static/js/main.77b45d09.js",
+    "static/media/image (15).png": "/bless-model/static/media/image (15).499dedadba6b935fe975.png",
+    "index.html": "/bless-model/index.html",
+    "static/media/arrow.svg": "/bless-model/static/media/arrow.cb3ea9d1b623cc609567.svg",
+    "main.e9e784c6.css.map": "/bless-model/static/css/main.e9e784c6.css.map",
+    "main.77b45d09.js.map": "/bless-model/static/js/main.77b45d09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9e784c6.css",
+    "static/js/main.77b45d09.js"
+  ]
+}
