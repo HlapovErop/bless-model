@@ -1,24 +1,34 @@
-import logo from './logo.svg';
-import './App.css';
+import './Style.css';
+import Header from './components/header';
+import Power from './components/power';
+import ServiceSection from './components/SeviceSection';
+import Product from './components/product';
+import Telegram from './components/telegram';
+import Work from './components/work';
+import OptionSection from './components/optionSection';
+import Promotion from './components/promotion';
+import Model from './components/model';
+import CaseSection from './components/caseSection';
+import OutPerform from './components/outPerform';
+import Footer from './components/footer';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+ <>
+ <Header />
+ <Power />
+ <ServiceSection />
+ <Product />
+ <Telegram />
+ <Work />
+ <OptionSection />
+ <Promotion />
+ <Model />
+ <CaseSection />
+ <OutPerform />
+ <Footer />
+ </>
   );
 }
 
