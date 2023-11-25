@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bless-model/static/css/main.2c6d208f.css",
-    "main.js": "/bless-model/static/js/main.9a46a895.js",
+    "main.css": "/bless-model/static/css/main.b7a2e20c.css",
+    "main.js": "/bless-model/static/js/main.5ac3a771.js",
     "static/media/image12.png": "/bless-model/static/media/image12.19570523856d8d559452.png",
     "static/media/image3.png": "/bless-model/static/media/image3.de8be08193744e071ec4.png",
     "static/media/image9.png": "/bless-model/static/media/image9.60310212a89226cfb0e6.png",
@@ -19,14 +19,15 @@
     "static/media/image1.png": "/bless-model/static/media/image1.dac3ead06fa991ab1886.png",
     "static/media/image2.png": "/bless-model/static/media/image2.7eb4afb5d179bd76a9b9.png",
     "static/media/image (15).png": "/bless-model/static/media/image (15).499dedadba6b935fe975.png",
+    "static/media/button.svg": "/bless-model/static/media/button.0f127a6e28a940a041399a07ef1647e7.svg",
     "index.html": "/bless-model/index.html",
     "static/media/arrow.svg": "/bless-model/static/media/arrow.cb3ea9d1b623cc609567.svg",
     "static/media/cube-icon.svg": "/bless-model/static/media/cube-icon.35da05ea57b59b0449915616a9c92fff.svg",
-    "main.2c6d208f.css.map": "/bless-model/static/css/main.2c6d208f.css.map",
-    "main.9a46a895.js.map": "/bless-model/static/js/main.9a46a895.js.map"
+    "main.b7a2e20c.css.map": "/bless-model/static/css/main.b7a2e20c.css.map",
+    "main.5ac3a771.js.map": "/bless-model/static/js/main.5ac3a771.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c6d208f.css",
-    "static/js/main.9a46a895.js"
+    "static/css/main.b7a2e20c.css",
+    "static/js/main.5ac3a771.js"
   ]
 }
